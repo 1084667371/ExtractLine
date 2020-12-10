@@ -14,12 +14,12 @@
 # 一、效果展示
 
 ## 图片效果
-<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/5c6f8258efff4c2fa92d85c82f529a5e180457cc33b346e89b4bd0a8bef43222">
-<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/80dc23ffdb2d4c81966d06fbcdb8d2b688177074d74e4c62a1999a90709fe2d8">
-<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/0d2de24c6bb84edcb757ba39d35db84063f88b9387e143cfa7b756160dd88687"><br>
-<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/ea6ceacf6ceb489abe7f3fd80edf710d644eaa1f8fe2406699e9966f23cc9f8d">
-<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/4cbf4eb015ed401390feeae84694d4a303370116e0334817be9be8405f5e6712">
-<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/6af1b527074d489c866f6387a8be3028a9c7781bf3dd46729c2501a70f359746">
+<img style="float:left;" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/5c6f8258efff4c2fa92d85c82f529a5e180457cc33b346e89b4bd0a8bef43222">
+<img style="float:left;" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/80dc23ffdb2d4c81966d06fbcdb8d2b688177074d74e4c62a1999a90709fe2d8">
+<img style="float:left;" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/0d2de24c6bb84edcb757ba39d35db84063f88b9387e143cfa7b756160dd88687"><br>
+<img style="float:left;" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/ea6ceacf6ceb489abe7f3fd80edf710d644eaa1f8fe2406699e9966f23cc9f8d">
+<img style="float:left;" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/4cbf4eb015ed401390feeae84694d4a303370116e0334817be9be8405f5e6712">
+<img style="float:left;" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/6af1b527074d489c866f6387a8be3028a9c7781bf3dd46729c2501a70f359746">
 
 ## 视频效果
 
