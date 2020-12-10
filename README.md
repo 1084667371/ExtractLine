@@ -14,27 +14,20 @@
 # 一、效果展示
 
 ## 图片效果
-<img width="200" src="https://ai-studio-static-online.cdn.bcebos.com/5c6f8258efff4c2fa92d85c82f529a5e180457cc33b346e89b4bd0a8bef43222">
-<img width="200" src="https://ai-studio-static-online.cdn.bcebos.com/80dc23ffdb2d4c81966d06fbcdb8d2b688177074d74e4c62a1999a90709fe2d8">
-<img width="200" src="https://ai-studio-static-online.cdn.bcebos.com/0d2de24c6bb84edcb757ba39d35db84063f88b9387e143cfa7b756160dd88687"><br>
-<img width="200" src="https://ai-studio-static-online.cdn.bcebos.com/ea6ceacf6ceb489abe7f3fd80edf710d644eaa1f8fe2406699e9966f23cc9f8d">
-<img width="200" src="https://ai-studio-static-online.cdn.bcebos.com/4cbf4eb015ed401390feeae84694d4a303370116e0334817be9be8405f5e6712">
-<img width="200" src="https://ai-studio-static-online.cdn.bcebos.com/6af1b527074d489c866f6387a8be3028a9c7781bf3dd46729c2501a70f359746">
+<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/5c6f8258efff4c2fa92d85c82f529a5e180457cc33b346e89b4bd0a8bef43222">
+<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/80dc23ffdb2d4c81966d06fbcdb8d2b688177074d74e4c62a1999a90709fe2d8">
+<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/0d2de24c6bb84edcb757ba39d35db84063f88b9387e143cfa7b756160dd88687"><br>
+<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/ea6ceacf6ceb489abe7f3fd80edf710d644eaa1f8fe2406699e9966f23cc9f8d">
+<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/4cbf4eb015ed401390feeae84694d4a303370116e0334817be9be8405f5e6712">
+<img style="float:left" width="200" src="https://ai-studio-static-online.cdn.bcebos.com/6af1b527074d489c866f6387a8be3028a9c7781bf3dd46729c2501a70f359746">
 
 ## 视频效果
 
 原始视频链接：
 [https://player.bilibili.com/player.html?aid=373068021&bvid=BV14Z4y1g7uG&cid=264240737&page=1](https://player.bilibili.com/player.html?aid=373068021&bvid=BV14Z4y1g7uG&cid=264240737&page=1)
 
-
-[video(video-MFEIjKcB-1607561771192)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=373068021)(image-https://ss.csdn.net/p?http://i2.hdslb.com/bfs/archive/695f2a30c1fc40eed86ea90a25a83c11c15cc51e.jpg)(title-原视频)]
-
-
 将视频内容转换为线稿：
 [https://player.bilibili.com/player.html?aid=800614383&bvid=BV1zy4y1v7kQ&cid=262900480&page=1](https://player.bilibili.com/player.html?aid=800614383&bvid=BV1zy4y1v7kQ&cid=262900480&page=1)
-
-
-[video(video-Mf6aqBNi-1607561794813)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=800614383)(image-https://ss.csdn.net/p?http://i1.hdslb.com/bfs/archive/cf10b431c5ae89b8c8c97784bb4494de90b2448c.jpg)(title-paddle带你将视频线稿化)]
 
 
 # 二、实现步骤
